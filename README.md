@@ -9,7 +9,7 @@
 - 🎯 Focused on **tool-based websites**, **SEO**, and building a **long-term online business**.
 - 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, and **Mobile App Development**.
 - 📈 My dream is to become a successful businessman & make my family proud.
-- 📬 Reach me at **jayprajapati.dev@gmail.com**
+- 📬 Reach me at **prajapatijay17112007@gmail.com**
 
 ---
 
