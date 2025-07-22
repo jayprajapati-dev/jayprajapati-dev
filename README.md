@@ -27,8 +27,8 @@
 
 📌 **My Projects**
 - 🔧 [JayTools](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners.
-- 💼 [Medical Lab Website](https://github.com/jayprajapati-dev/medical-lab-site) – Built with HTML/CSS/JS.
-- 📊 [Lead Management CRM Clone](https://github.com/jayprajapati-dev/crm-clone) – Pixel-perfect PHP + MySQL CRM project.
+- 💼 [Medical Lab Website]– Built with HTML/CSS/JS.
+- 📊 [Lead Management CRM Clone](https://github.com/jayprajapati-dev/Lead-Management-System) – Pixel-perfect PHP + MySQL CRM project.
 
 ---
 
@@ -43,7 +43,7 @@
 🔗 **Connect With Me**
 <p>
   <a href="https://github.com/jayprajapati-dev"><img src="https://img.shields.io/badge/GitHub-jayprajapati--dev-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:jayprajapati.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-jayprajapati.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:prajapatijay17112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-prajapatijay17112007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
