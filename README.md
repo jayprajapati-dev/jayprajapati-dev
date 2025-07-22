@@ -26,7 +26,7 @@
 ---
 
 📌 **My Projects**
-- 🔧 [JayTools](https://github.com/jayprajapati-dev/jaytools) – 20+ online tools like calculators, converters, planners.
+- 🔧 [JayTools](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners.
 - 💼 [Medical Lab Website](https://github.com/jayprajapati-dev/medical-lab-site) – Built with HTML/CSS/JS.
 - 📊 [Lead Management CRM Clone](https://github.com/jayprajapati-dev/crm-clone) – Pixel-perfect PHP + MySQL CRM project.
 
