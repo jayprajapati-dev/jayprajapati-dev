@@ -30,14 +30,11 @@
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Chrome DevTools"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChatGPT_API-10a37f?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 
