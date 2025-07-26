@@ -58,7 +58,7 @@
 ---
 
 📌 **My Projects**
-- 🔧 [JayTools](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners.
+- 🔧 [Website Name: Task Proper](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners and etc.
 - 💼 [Medical Lab Website]– Built with HTML/CSS/JS.
 - 📊 [Lead Management CRM Clone](https://github.com/jayprajapati-dev/Lead-Management-System) – Pixel-perfect PHP + MySQL CRM project.
 
