@@ -45,25 +45,6 @@
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayprajapati171120/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/prajapati_jay_1711/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:prajapatijay17112007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jayprajapati-dev.tech">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
 📌 **My Projects**
 - 🔧 [Website Name: Task Proper](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners and etc.
 - 💼 [Medical Lab Website]– Built with HTML/CSS/JS.
@@ -79,10 +60,21 @@
 
 ---
 
-🔗 **Connect With Me**
-<p>
-  <a href="https://github.com/jayprajapati-dev"><img src="https://img.shields.io/badge/GitHub-jayprajapati--dev-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:prajapatijay17112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-prajapatijay17112007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayprajapati171120/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/prajapati_jay_1711/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:prajapatijay17112007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jayprajapati-dev.tech">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
 </p>
 
 ---
