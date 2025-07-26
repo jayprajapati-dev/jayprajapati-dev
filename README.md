@@ -7,9 +7,9 @@
 🌟 **About Me**
 - 🎓 I’m currently learning Information Technology.
 - 💻 I’m building real-world web tools & projects using **HTML, CSS, JavaScript, PHP, MySQL** and more.
-- 🎯 Focused on **tool-based websites**, **SEO**, and building a **long-term online business**.
-- 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, and **Mobile App Development**.
-- 📈 My dream is to become a successful businessman & make my family proud.
+- 🎯 Focused on **tool-based websites**, **SEO** and building a **long-term online business**.
+- 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, **Website Development** and **Mobile App Development**.
+- 📈 My dream is to become a successful Developer & make my family proud.
 - 📬 Reach me at **prajapatijay17112007@gmail.com**
 
 ---
