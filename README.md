@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Web Developer</h3>
 
 ---
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
 
 🌟 **About Me**
 - 🎓 I'm currently pursuing a Diploma in Information Technology.
