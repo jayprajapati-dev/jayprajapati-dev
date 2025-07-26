@@ -1,6 +1,8 @@
 <h1 align="center">Hello ,I'm Jay Prajapati</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Web Developer</h3>
-- 🌐 Visit my portfolio: [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
+<a href="https://jayprajapati-dev.tech">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
+</a>
 
 ---
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
