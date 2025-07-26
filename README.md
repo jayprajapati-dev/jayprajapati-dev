@@ -3,6 +3,7 @@
 
 ---
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
+🔗 Visit: [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 
 🌟 **About Me**
 - 🎓 I’m currently learning Information Technology.
