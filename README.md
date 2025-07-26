@@ -1,9 +1,9 @@
 <h1 align="center">Hello ,I'm Jay Prajapati</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Web Developer</h3>
+- 🌐 Visit my portfolio: [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 
 ---
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
-🔗 Visit: [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 
 🌟 **About Me**
 - 🎓 I’m currently learning Information Technology.
