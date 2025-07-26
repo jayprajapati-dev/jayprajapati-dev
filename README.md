@@ -5,7 +5,7 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
 
 🌟 **About Me**
-- 🎓 I'm currently pursuing a Diploma in Information Technology.
+- 🎓 I’m currently learning Information Technology.
 - 💻 I’m building real-world web tools & projects using **HTML, CSS, JavaScript, PHP, MySQL** and more.
 - 🎯 Focused on **tool-based websites**, **SEO**, and building a **long-term online business**.
 - 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, and **Mobile App Development**.
