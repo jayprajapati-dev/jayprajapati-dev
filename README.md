@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jay Prajapati</h1>
+<h1 align="center">Hello ,I'm Jay Prajapati</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Future Entrepreneur 🚀</h3>
 
 ---
