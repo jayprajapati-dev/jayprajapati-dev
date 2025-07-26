@@ -1,5 +1,5 @@
 <h1 align="center">Hello ,I'm Jay Prajapati</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Future Entrepreneur 🚀</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Web Developer</h3>
 
 ---
 
