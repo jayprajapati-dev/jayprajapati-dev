@@ -52,14 +52,6 @@
 
 ---
 
-📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
