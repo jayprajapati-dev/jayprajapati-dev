@@ -12,7 +12,7 @@
 - 💻 I’m building real-world web tools & projects using **HTML, CSS, JavaScript, PHP, MySQL** and more.
 - 🎯 Focused on **tool-based websites**, **SEO** and building a **long-term online business**.
 - 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, **Website Development** and **Mobile App Development**
-- 🌐 Visit my portfolio: [jay-prajapati-official](https://jay-prajapati-official.vercel.app),
+- 🌐 Visit my portfolio: [jay-prajapati-official](https://jayprajapati-official.vercel.app/),
 [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 - 📄 Know about my experiences. *(Coming soon...)*
 - 📈 My dream is to become a successful Developer & make my family proud.
@@ -47,10 +47,17 @@
 
 ---
 
-📌 **My Projects**
-- 🔧 [Website Name: Task Proper](https://www.taskproper.com) – 20+ online tools like calculators, converters, planners and etc.
-- 💼 [Medical Lab Website]– Built with HTML/CSS/JS.
-- 📊 [Lead Management CRM Clone](https://github.com/jayprajapati-dev/Lead-Management-System) – Pixel-perfect PHP + MySQL CRM project.
+## 📌 Projects
+
+| Project | Tech | Links |
+|--------|------|-------|
+| **Lead Management CRM** – Full pipeline CRM with contacts & lead tracking | PHP, MySQL | [📂 GitHub](https://github.com/jayprajapati-dev/Lead-Management-System) |
+| **Tournament Platform** – Esports tournament manager with brackets & results | PHP, Flask, MySQL | [📂 PHP](https://github.com/jayprajapati-dev/tournament-platform-php) · [📂 Flask](https://github.com/jayprajapati-dev/tournament-platform-flask) |
+| **UniClass** – Academic portal for semesters, subjects & assignments | MongoDB, Express, React, Node.js | [📂 GitHub](https://github.com/jayprajapati-dev/college-academic-portal) |
+| **Push Notification System** – Custom browser push alerts, no third-party service | JS, Service Workers, PHP | 🔒 Private |
+| **Admin Dashboard + Auth** – Role-based access control & admin panel | PHP, MySQL, JS | 🔒 Private |
+| **TaskProper** – 25+ free online tools: calculators, converters & planners | HTML, CSS, JS | [🌐 Live](https://www.taskproper.com) |
+| **Medical Lab Website** – Client project, responsive static site | HTML, CSS, JS | 🔒 Private |
 
 ---
 
@@ -66,7 +73,7 @@
   <a href="mailto:prajapatijay17112007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://jayprajapati-dev.tech">
+  <a href="https://jayprajapati-official.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
 </p>
