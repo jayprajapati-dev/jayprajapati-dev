@@ -16,7 +16,7 @@
 [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 - 📄 Know about my experiences. *(Coming soon...)*
 - 📈 My dream is to become a successful Developer & make my family proud.
-- My Portfolio: https://jay-prajapati-official.vercel.app
+- My Portfolio: https://jayprajapati-official.vercel.app
 - 📬 Reach me at **prajapatijay17112007@gmail.com**
 
 ---
