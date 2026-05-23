@@ -1,5 +1,5 @@
 <h1 align="center">Hello ,I'm Jay Prajapati</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Diploma IT Student | Web Developer</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Systems Thinker | Learning Cloud & DevOps </h3>
 <a href="https://jayprajapati-official.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
 </a>
