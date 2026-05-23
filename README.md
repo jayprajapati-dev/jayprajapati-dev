@@ -8,15 +8,11 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=jayprajapati-dev.jayprajapati-dev&left_color=blue&right_color=green)
 
 🌟 **About Me**
-- 🎓 I’m currently learning Information Technology.
-- 💻 I’m building real-world web tools & projects using **HTML, CSS, JavaScript, PHP, MySQL** and more.
-- 🎯 Focused on **tool-based websites**, **SEO** and building a **long-term online business**.
-- 🌱 Currently learning **Advanced Java**, **AI/ML Fundamentals**, **Website Development** and **Mobile App Development**
-- 🌐 Visit my portfolio: [jay-prajapati-official](https://jayprajapati-official.vercel.app/),
-[jayprajapati-dev.tech](https://jayprajapati-dev.tech)
-- 📄 Know about my experiences. *(Coming soon...)*
-- 📈 My dream is to become a successful Developer & make my family proud.
-- My Portfolio: https://jayprajapati-official.vercel.app
+
+- 🎓 Diploma in Information Technology — Gujarat, India
+- 💻 Building real-world web apps & systems using **HTML, CSS, JavaScript, PHP, MySQL, React, Flask & Node.js**
+- 🚀 Currently pushing into **Linux, Docker, AWS & DevOps** — learning by doing, not just reading docs
+- 🌐 Portfolio: [jayprajapati-dev.tech](https://jayprajapati-dev.tech)
 - 📬 Reach me at **prajapatijay17112007@gmail.com**
 
 ---
