@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Jay Prajapati</h1>
 
 <h3 align="center">
@@ -214,4 +213,3 @@ Technology changes every day, but good engineering principles stay the same.
 ⭐ Thank you for visiting my profile.<br>
 Let's build something meaningful.
 </p>
-```
