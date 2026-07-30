@@ -33,7 +33,7 @@ I don't just write code. I design systems that are secure, scalable, maintainabl
 
 I'm **Jay Prajapati**, a Full-Stack Developer from Gujarat, India.
 
-I enjoy building software that solves real-world problems—not just websites.
+I enjoy building software that solves real-world problems, not just websites.
 
 My approach is simple:
 
