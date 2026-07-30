@@ -204,26 +204,14 @@ Technology changes every day, but good engineering principles stay the same.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=jayprajapati-dev&theme=transparent&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jayprajapati-dev&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jayprajapati-dev&theme=flat&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayprajapati-dev&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
