@@ -207,13 +207,16 @@ Technology changes every day, but good engineering principles stay the same.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=jayprajapati-dev&theme=github-dark&hide_border=true"/>
+  <img height="170" alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=jayprajapati-dev&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </p>
 
 ---
