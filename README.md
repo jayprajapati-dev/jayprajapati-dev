@@ -68,22 +68,23 @@ My goal is to build software that continues to work well as users, data, and req
 
 # 🚀 What I Build
 
-I enjoy working on products such as:
+I enjoy building software that solves practical problems for businesses, students, and everyday users.
 
-- SaaS Applications
-- CRM Systems
-- Dashboard Panels
-- Admin Portals
-- Educational Platforms
-- Creator Tools
+Some of the products and systems I build include:
+
+- Full-Stack Web Applications
 - Business Websites
-- REST APIs
-- Backend Systems
-- Authentication Systems
-- Automation Tools
-- Productivity Platforms
-- Real-time Applications
-- Custom Business Solutions
+- CRM & Lead Management Systems
+- Admin Dashboards
+- Educational Platforms
+- File & PDF Processing Tools
+- QR-based Business Solutions
+- Authentication & User Management Systems
+- REST APIs & Backend Services
+- Productivity & Automation Tools
+- AI-Powered Web Applications
+- AI Integration & Workflow Automation
+- AI-Assisted Productivity Tools
 
 I prefer solving real business problems instead of building projects only for practice.
 
