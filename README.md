@@ -73,6 +73,7 @@ I enjoy building software that solves practical problems for businesses, student
 Some of the products and systems I build include:
 
 - Full-Stack Web Applications
+- SaaS Platforms & Business Solutions
 - Business Websites
 - CRM & Lead Management Systems
 - Admin Dashboards
