@@ -170,18 +170,18 @@ I prefer solving real business problems instead of building projects only for pr
 
 # 🌱 Currently Learning
 
-- Linux Administration
-- Docker
-- AWS Cloud
-- DevOps
-- CI/CD
-- Nginx
-- Reverse Proxy
-- Cloud Infrastructure
-- System Design
-- Backend Architecture
-- Performance Optimization
-- SaaS Engineering
+- Designing Scalable Software Systems
+- Building High-Performance Backend Services
+- AI Integration & Intelligent Workflows
+- Secure Authentication & Authorization
+- Database Modeling & Query Optimization
+- REST API Design & Best Practices
+- Performance Optimization & Caching
+- SaaS Product Architecture
+- Scalable Web Infrastructure
+- Software Design Patterns
+- Production-Ready Application Development
+- Modern Engineering Practices
 
 ---
 
