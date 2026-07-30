@@ -204,19 +204,25 @@ Technology changes every day, but good engineering principles stay the same.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayprajapati-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jayprajapati-dev&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=jayprajapati-dev&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati-dev&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jayprajapati-dev&theme=flat&no-frame=true&row=1&column=6"/>
 
 </p>
 
