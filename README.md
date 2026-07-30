@@ -5,7 +5,7 @@ Full-Stack Developer • Systems Thinker • Building Secure & Scalable Web Appl
 </h3>
 
 <p align="center">
-I don't just write code—I design systems that are secure, scalable, maintainable, and built for the future.
+I don't just write code. I design systems that are secure, scalable, maintainable, and built for the future.
 </p>
 
 <p align="center">
